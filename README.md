@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm (oOwwOv)! 👋
 
-<!--
-**owwv/owwv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
 
-Here are some ideas to get you started:
+- 🎨 **Creative Coder** passionate about blending technology and art.
+- 🖥️ **Tech Explorer**: Always learning new programming languages, frameworks, and tools.
+- 🎮 **Game Enthusiast**: Love to dive into game development and interactive media projects.
+- 📚 **Lifelong Learner**: Whether it’s coding, design, or storytelling, curiosity drives me forward.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🎨 Credits
+
+> **Avatar art** is from [this Pixiv artwork](https://www.pixiv.net/artworks/130758773).
+
+---
+
+Thanks for stopping by! 
+Let’s build something amazing together.
