@@ -16,5 +16,6 @@ Welcome to my GitHub profile!
 
 ---
 
-Thanks for stopping by! ヾ(o>ww<v)ﾉ
-Let’s build something amazing together.
+Thanks for stopping by! 
+
+Let’s build something amazing together. ヾ(o>ww<v)ﾉ
