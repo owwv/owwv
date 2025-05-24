@@ -1,5 +1,7 @@
 # Hi there, I'm (oOwwOv)! 👋
 
+Welcome to my GitHub profile!
+
 ## 🌟 About Me
 
 - 🎨 **Creative Coder** passionate about blending technology and art.
@@ -14,5 +16,5 @@
 
 ---
 
-Thanks for stopping by! 
+Thanks for stopping by! ヾ(o>ww<v)ﾉ
 Let’s build something amazing together.
